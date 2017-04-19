@@ -1,0 +1,11 @@
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\bin\Debug\SchindlerManageReports.exe.config
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\bin\Debug\SchindlerManageReports.exe
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\bin\Debug\SchindlerManageReports.pdb
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\obj\Debug\SchindlerManageReports.csprojResolveAssemblyReference.cache
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\obj\Debug\SchindlerManageReports.csproj.ResolveComReference.cache
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\obj\Debug\SchindlerManageReports.About.resources
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\obj\Debug\SchindlerManageReports.Form1.resources
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\obj\Debug\SchindlerManageReports.Properties.Resources.resources
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\obj\Debug\SchindlerManageReports.csproj.GenerateResource.Cache
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\obj\Debug\SchindlerManageReports.exe
+C:\Users\Oron\documents\visual studio 2015\Projects\SchindlerManageReports\SchindlerManageReports\obj\Debug\SchindlerManageReports.pdb
